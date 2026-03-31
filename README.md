@@ -1,1 +1,1 @@
-This repository contains automated Python scripts to download 10-K filings from the SEC EDGAR database, extract Item 1C (Cybersecurity) sections, and run keyword analysis (MFA, Phishing, Training) for specific target companies.
+This repository contains automated Python scripts to download 10-K filings from the SEC EDGAR database, extract Item 1C (Cybersecurity) sections, and run keyword analysis (MFA, Phishing, Training) for specific target companies. 
